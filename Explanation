@@ -2,14 +2,12 @@
 
 
 
-
-
 # Step 1 : Create a new R Markdown file (e.g., map_example.Rmd) with the following content:
 
 ---
 title: "Interactive Map with Leaflet"
-author: "Your Name"
-date: "`r Sys.Date()`"
+author: "Mohamed Elmehdi Ait Bourkha"
+date: "`01-08-2024`"
 output: 
   html_document:
     self_contained: true
